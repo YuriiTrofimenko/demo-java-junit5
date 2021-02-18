@@ -67,6 +67,7 @@
                 <version>${exec-maven-plugin-version}</version>
                 <configuration>
                     <mainClass>org.tyaa.demo.java.testing.Main</mainClass>
+                    <executable>C:/Users/student/tyaa/prog/jdk-11/bin/java</executable>
                     <!-- <arguments>
                         <argument>-Dx=2</argument>
                         <argument>-Dy=2</argument>
